@@ -4,7 +4,7 @@ Shields.io (licença github)
 # Carrinho mecatrônico
 Projeto de um veiculo mecatrônico usando sucata de lixo eletronico.
 
-![](Img/carrinho-de-garrafa-PET-2.png)
+![](Img/IMG-20260909-WA0012.jpg)
 ## Autores 
 - Vinicius Barel
 - Giovanna Belmiro
